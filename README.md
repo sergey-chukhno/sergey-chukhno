@@ -47,4 +47,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
 
 [![E-mail](https://img.shields.io/badge/E--mail-sergey--chukhno@laplateforme.io-blue)](mailto:sergey-chukhno@laplateforme.io)
+
+### My GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergey-chukhno&show_icons=true&count_private=true&hide_title=true&hide=prs)
+
+### My GitHub Activity
+
+![My GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sergey-chukhno&theme=react)
 -->
