@@ -1,12 +1,9 @@
-![Futuristic Web Dev Header](https://github.com/sergey-chukhno/assets/blob/main/git_header.png)
+<img src='https://github.com/sergey-chukhno/assets/blob/main/git_header.png' width = 100% height=auto>
 
-## Hello, world! 👋
-I am Sergey, a software engineer, specialized in Python, Java and Java Script. I am passionate about coding and new technologies and am always keen to embark on new and exciting projects! 
+# Hello, world! 👋
 
-<!--
-**sergey-chukhno/sergey-chukhno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am Sergey, a software engineer, specialized in Python, Java and Java Script. I am passionate about coding and new technologies and am always keen to embark on new and exciting projects!** 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently exploring the vast world of Python programming! My focus is on: 
   - Web Development: Building robust web applications with frameworks like Django and Flask 
@@ -46,6 +43,8 @@ Here are some ideas to get you started:
   - French (Fluent), English (Fluent), Russian (Fluent), Spanish (Good knowledge)
 
 ## 📫 How to reach me: 
-[![LinkedIn](https://github.com/sergey-chukhno/assets/blob/main/linkedin.svg)](https://linkedin.com)
-[![E-mail](sergey-chukhno@laplateforme.io)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+
+[![E-mail](https://img.shields.io/badge/E--mail-sergey--chukhno@laplateforme.io-blue)](mailto:sergey-chukhno@laplateforme.io)
 -->
