@@ -54,5 +54,5 @@
 
 ### My GitHub Activity
 
-![My GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sergey-chukhno&theme=react)
+![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sergey-chukhno&theme=react)
 -->
