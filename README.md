@@ -1,4 +1,4 @@
-<img src='https://github.com/sergey-chukhno/assets/blob/main/corrected_header_image%20(1).png' width = 100% height=auto>
+<img src='https://github.com/sergey-chukhno/assets/blob/main/photo-1729262901083-d9f562d0c36f.avif' width = 100% height=auto>
 
 # Hello, world! 👋
 
