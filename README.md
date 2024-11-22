@@ -2,7 +2,7 @@
 
 # Hello, world! 👋
 
-**I am Sergey, a software engineer, specialized in Python, Java and Java Script. I am passionate about coding and new technologies and am always keen to embark on new and exciting projects!** 
+**I am Sergey, a software engineer, specialized in Python, Java and AI Engineering. I am passionate about coding and new technologies and am always keen to embark on new and exciting projects!** 
 
 
 - 🔭 I’m currently exploring the vast world of Python programming! My focus is on: 
