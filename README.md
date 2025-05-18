@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sergey-chukhno/sergey-chukhno/main/assets/space_corollary_banner.svg" alt="Sergey Chukhno - Software Engineer" width="100%">
+  <img src="https://raw.githubusercontent.com/sergey-chukhno/sergey-chukhno/main/assets/tall_space_banner.svg" alt="Sergey Chukhno - Software Engineer" width="100%">
 </p>
+
 
 
 # Hello, world! 👋
