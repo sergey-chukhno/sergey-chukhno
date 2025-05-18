@@ -1,4 +1,7 @@
-<img src='https://github.com/sergey-chukhno/assets/blob/main/2024-11-19%2013.55.30.jpg' width = 100% height=auto>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sergey-chukhno/sergey-chukhno/main/assets/space_corollary_banner.svg" alt="Sergey Chukhno - Software Engineer" width="100%">
+</p>
+
 
 # Hello, world! 👋
 
