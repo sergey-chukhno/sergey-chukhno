@@ -1,9 +1,10 @@
+<!-- Cyberpunk Banner -->
 <p align="center">
-  <img src="tall_space_banner.svg" alt="Cyberpunk Banner" width="100%">
+  <img src="assets/tall_space_banner.svg" alt="Cyberpunk Banner" width="100%">
 </p>
 
 <!-- About Me Card -->
-<img src="cards/about_card.svg" alt="About Card" width="100%">
+<img src="cards/assets/about_card.svg" alt="About Card" width="100%">
 
 <b>
 I am Sergey, a software engineer student. My main interests include:
@@ -22,7 +23,7 @@ I am passionate about coding and new technologies and am always keen to embark o
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="cards/focus_card.svg" alt="Focus Card" width="100%">
+      <img src="cards/assets/focus_card.svg" alt="Focus Card" width="100%">
       <ul>
         <li>🧑‍💻 Learning medium and advanced C++</li>
         <li>🌱 Learning Java Spring Boot</li>
@@ -31,7 +32,7 @@ I am passionate about coding and new technologies and am always keen to embark o
       </ul>
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="cards/collab_card.svg" alt="Collaboration Card" width="100%">
+      <img src="cards/assets/collab_card.svg" alt="Collaboration Card" width="100%">
       <p>
         I'm looking to collaborate on innovative projects that align with my skills and passions!<br>
         <b>Let's create something amazing together!</b>
@@ -43,7 +44,7 @@ I am passionate about coding and new technologies and am always keen to embark o
 <br/>
 
 <!-- Tech Stack Card -->
-<img src="cards/tech_card.svg" alt="Tech Stack Card" width="100%">
+<img src="cards/assets/tech_card.svg" alt="Tech Stack Card" width="100%">
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-061029?style=for-the-badge&logo=c&logoColor=white" />
@@ -70,7 +71,7 @@ I am passionate about coding and new technologies and am always keen to embark o
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="cards/hobbies_card.svg" alt="Hobbies Card" width="100%">
+      <img src="cards/assets/hobbies_card.svg" alt="Hobbies Card" width="100%">
       <ul>
         <li>👨‍👧‍👦 Playing with my kids</li>
         <li>📚 Reading books on political economy, history, astronomy, modern physics, and AI</li>
@@ -80,7 +81,7 @@ I am passionate about coding and new technologies and am always keen to embark o
       </ul>
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="cards/languages_card.svg" alt="Languages Card" width="100%">
+      <img src="cards/assets/languages_card.svg" alt="Languages Card" width="100%">
       <ul>
         <li>French <b>(fluent)</b></li>
         <li>English <b>(fluent)</b></li>
@@ -94,7 +95,7 @@ I am passionate about coding and new technologies and am always keen to embark o
 <br/>
 
 <!-- Connect Card -->
-<img src="cards/connect_card.svg" alt="Connect Card" width="100%">
+<img src="cards/assets/connect_card.svg" alt="Connect Card" width="100%">
 
 <p align="center">
   <a href="https://linkedin.com" target="_blank">
@@ -108,12 +109,11 @@ I am passionate about coding and new technologies and am always keen to embark o
 <br/>
 
 <!-- GitHub Stats Card -->
-<img src="cards/stats_card.svg" alt="GitHub Stats Card" width="100%">
+<img src="cards/assets/stats_card.svg" alt="GitHub Stats Card" width="100%">
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sergey-chukhno&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sergey-chukhno&theme=react-dark" alt="Activity Graph" width="100%" />
 </p> 
-
 
 
