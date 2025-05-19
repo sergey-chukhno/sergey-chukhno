@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000" height="120" viewBox="0 0 1000 120" fill="none"
+  xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="borderGradFocus" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9d4edd"/>
+      <stop offset="1" stop-color="#00b4d8"/>
+    </linearGradient>
+    <filter id="cardGlowFocus" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-color="#9d4edd" flood-opacity="0.5" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect x="8" y="8" width="984" height="104" rx="18" fill="#061029" filter="url(#cardGlowFocus)"/>
+  <rect x="8" y="8" width="984" height="104" rx="18" fill="none" stroke="url(#borderGradFocus)" stroke-width="4"/>
+  <g transform="translate(32,10) scale(1.0)">
+    <circle cx="50" cy="50" r="30" fill="#061029" stroke="#9d4edd" stroke-width="2" filter="url(#neonGlowPurple)"/>
+    <circle cx="50" cy="50" r="20" fill="#061029" stroke="#9d4edd" stroke-width="2" filter="url(#neonGlowPurple)"/>
+    <circle cx="50" cy="50" r="10" fill="#061029" stroke="#9d4edd" stroke-width="2" filter="url(#neonGlowPurple)"/>
+    <circle cx="50" cy="50" r="3" fill="#9d4edd" filter="url(#neonGlowPurple)"/>
+    <line x1="20" y1="50" x2="80" y2="50" stroke="#9d4edd" stroke-width="2" filter="url(#neonGlowPurple)"/>
+    <line x1="50" y1="20" x2="50" y2="80" stroke="#9d4edd" stroke-width="2" filter="url(#neonGlowPurple)"/>
+    <defs>
+      <filter id="neonGlowPurple" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="2" result="blur"/>
+        <feFlood flood-color="#9d4edd" flood-opacity="0.8" result="color"/>
+        <feComposite in="color" in2="blur" operator="in" result="glow"/>
+        <feMerge>
+          <feMergeNode in="glow"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+  </g>
+  <text x="160" y="75" font-family="'Orbitron', 'Segoe UI', 'Arial', sans-serif" font-size="44" fill="#9d4edd" font-weight="bold" filter="url(#cardGlowFocus)">
+    Current Focus
+  </text>
+</svg> 

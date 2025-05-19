@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000" height="120" viewBox="0 0 1000 120" fill="none"
+  xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="borderGradTech" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f8f32b"/>
+      <stop offset="1" stop-color="#00b4d8"/>
+    </linearGradient>
+    <filter id="cardGlowTech" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-color="#f8f32b" flood-opacity="0.5" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect x="8" y="8" width="984" height="104" rx="18" fill="#061029" filter="url(#cardGlowTech)"/>
+  <rect x="8" y="8" width="984" height="104" rx="18" fill="none" stroke="url(#borderGradTech)" stroke-width="4"/>
+  <g transform="translate(32,10) scale(1.0)">
+    <rect x="25" y="25" width="50" height="50" rx="5" fill="#061029" stroke="#f8f32b" stroke-width="2" filter="url(#neonGlowYellow)"/>
+    <line x1="35" y1="35" x2="65" y2="35" stroke="#f8f32b" stroke-width="2" filter="url(#neonGlowYellow)"/>
+    <line x1="35" y1="45" x2="65" y2="45" stroke="#f8f32b" stroke-width="2" filter="url(#neonGlowYellow)"/>
+    <line x1="35" y1="55" x2="65" y2="55" stroke="#f8f32b" stroke-width="2" filter="url(#neonGlowYellow)"/>
+    <line x1="35" y1="65" x2="65" y2="65" stroke="#f8f32b" stroke-width="2" filter="url(#neonGlowYellow)"/>
+    <circle cx="25" cy="35" r="3" fill="#f8f32b" filter="url(#neonGlowYellow)"/>
+    <circle cx="25" cy="45" r="3" fill="#f8f32b" filter="url(#neonGlowYellow)"/>
+    <circle cx="25" cy="55" r="3" fill="#f8f32b" filter="url(#neonGlowYellow)"/>
+    <circle cx="25" cy="65" r="3" fill="#f8f32b" filter="url(#neonGlowYellow)"/>
+    <defs>
+      <filter id="neonGlowYellow" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="2" result="blur"/>
+        <feFlood flood-color="#f8f32b" flood-opacity="0.8" result="color"/>
+        <feComposite in="color" in2="blur" operator="in" result="glow"/>
+        <feMerge>
+          <feMergeNode in="glow"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+  </g>
+  <text x="160" y="75" font-family="'Orbitron', 'Segoe UI', 'Arial', sans-serif" font-size="44" fill="#f8f32b" font-weight="bold" filter="url(#cardGlowTech)">
+    Tech Stack
+  </text>
+</svg> 

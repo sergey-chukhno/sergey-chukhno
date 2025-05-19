@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000" height="120" viewBox="0 0 1000 120" fill="none"
+  xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="borderGradHobbies" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff2a6d"/>
+      <stop offset="1" stop-color="#f8f32b"/>
+    </linearGradient>
+    <filter id="cardGlowHobbies" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-color="#ff2a6d" flood-opacity="0.5" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect x="8" y="8" width="984" height="104" rx="18" fill="#061029" filter="url(#cardGlowHobbies)"/>
+  <rect x="8" y="8" width="984" height="104" rx="18" fill="none" stroke="url(#borderGradHobbies)" stroke-width="4"/>
+  <g transform="translate(32,10) scale(1.0)">
+    <circle cx="50" cy="50" r="30" fill="#061029" stroke="#ff2a6d" stroke-width="2" filter="url(#neonGlowPink)"/>
+    <path d="M40,40 L40,60 L65,50 Z" fill="#ff2a6d" filter="url(#neonGlowPink)"/>
+    <circle cx="25" cy="25" r="10" fill="#061029" stroke="#ff2a6d" stroke-width="2" filter="url(#neonGlowPink)"/>
+    <circle cx="75" cy="25" r="10" fill="#061029" stroke="#ff2a6d" stroke-width="2" filter="url(#neonGlowPink)"/>
+    <circle cx="25" cy="75" r="10" fill="#061029" stroke="#ff2a6d" stroke-width="2" filter="url(#neonGlowPink)"/>
+    <circle cx="75" cy="75" r="10" fill="#061029" stroke="#ff2a6d" stroke-width="2" filter="url(#neonGlowPink)"/>
+    <defs>
+      <filter id="neonGlowPink" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="2" result="blur"/>
+        <feFlood flood-color="#ff2a6d" flood-opacity="0.8" result="color"/>
+        <feComposite in="color" in2="blur" operator="in" result="glow"/>
+        <feMerge>
+          <feMergeNode in="glow"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+  </g>
+  <text x="160" y="75" font-family="'Orbitron', 'Segoe UI', 'Arial', sans-serif" font-size="44" fill="#ff2a6d" font-weight="bold" filter="url(#cardGlowHobbies)">
+    Hobbies
+  </text>
+</svg> 
