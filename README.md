@@ -8,7 +8,7 @@
     <td width="100%" align="center">
       <img src="https://raw.githubusercontent.com/sergey-chukhno/sergey-chukhno/main/assets/icons/about_icon.svg" width="40" height="40">
       <h2>Hello, world! 👋</h2>
-      <p><b>I am Sergey, a software engineer, specialized in Python, Java and AI Engineering. I am passionate about coding and new technologies and am always keen to embark on new and exciting projects!</b></p>
+      <p><b>I am Sergey, a software engineer student. My main interests include: low-level programming (systems, networking and security) with C/C++;  building efficient backend wiht Japva Spring Boot or Go, SQL/NoSQL, Docker, Kubernetes, AWS; modern web and mobile development (React&Node.js, React Native) and creating bots and automated solutions with Python Llangchain, Selenium, MCP. I am passionate about coding and new technologies and am always keen to embark on new and exciting projects!</b></p>
     </td>
   </tr>
 </table>
@@ -18,21 +18,11 @@
     <td width="50%" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/sergey-chukhno/sergey-chukhno/main/assets/icons/focus_icon.svg" width="40" height="40">
       <h3>Current Focus</h3>
-      <p>🔭 <b>Python Programming</b></p>
+      <p>🔭 <b>Learning medium and advanced C++ programming</b></p>
       <ul>
-        <li>Web Development with Django and Flask</li>
-        <li>AI and machine learning solutions</li>
-      </ul>
-      <p>🌱 <b>Java Development</b></p>
-      <ul>
-        <li>Enterprise-level solutions</li>
-        <li>Inventory and stocks management</li>
-        <li>Logistics and financial systems</li>
-      </ul>
-      <p>🌱 <b>Front-end Skills</b></p>
-      <ul>
-        <li>Bootstrap, Tailwind CSS</li>
-        <li>React and Next.js</li>
+        <li>Learning Java Spring Boot and Microservices</li>
+        <li>Building my own memory allocation function and virtual machine from scratch in C</li>
+        <li>Building smart AI-powered applications with React, React Native, Next.js, Typescript, PostgreSQL/MongoDB</li>
       </ul>
     </td>
     <td width="50%" align="center" valign="top">
@@ -73,11 +63,10 @@
       <img src="https://raw.githubusercontent.com/sergey-chukhno/sergey-chukhno/main/assets/icons/hobbies_icon.svg" width="40" height="40">
       <h3>Hobbies</h3>
       <ul>
-        <li>Playing with my children</li>
-        <li>Reading books and articles</li>
-        <li>Traveling and exploring new places</li>
-        <li>Continuously improving my language skills</li>
-        <li>Exercising and staying active</li>
+        <li>Playing with my kids/li>
+        <li>Reading books</li>
+        <li>Physics and Astronomy</li>
+        <li>Walks in nature and travelling</li>
       </ul>
     </td>
     <td width="50%" align="center" valign="top">
