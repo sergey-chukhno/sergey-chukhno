@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="neonGlowPurple" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-color="#9d4edd" flood-opacity="0.8" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Focus icon with neon effect -->
+  <circle cx="50" cy="50" r="30" fill="#061029" stroke="#9d4edd" stroke-width="2" filter="url(#neonGlowPurple)"/>
+  <circle cx="50" cy="50" r="20" fill="#061029" stroke="#9d4edd" stroke-width="2" filter="url(#neonGlowPurple)"/>
+  <circle cx="50" cy="50" r="10" fill="#061029" stroke="#9d4edd" stroke-width="2" filter="url(#neonGlowPurple)"/>
+  <circle cx="50" cy="50" r="3" fill="#9d4edd" filter="url(#neonGlowPurple)"/>
+  <line x1="20" y1="50" x2="80" y2="50" stroke="#9d4edd" stroke-width="2" filter="url(#neonGlowPurple)"/>
+  <line x1="50" y1="20" x2="50" y2="80" stroke="#9d4edd" stroke-width="2" filter="url(#neonGlowPurple)"/>
+</svg>
