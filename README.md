@@ -9,10 +9,10 @@
 <b>
 I am Sergey, a software engineer student. My main interests include:
 <ul>
-  <li><span style="color:#39FF14;"><b>🖥️ Low-level programming</b></span> (systems, networking and security) with C/C++;</li>
-  <li><span style="color:#f8f32b;"><b>⚡ Efficient backend</b></span> with Java Spring Boot or Go, SQL/NoSQL, Docker, Kubernetes, AWS;</li>
-  <li><span style="color:#00b4d8;"><b>🌐 Modern web and mobile development</b></span> (React & Node.js, React Native);</li>
-  <li><span style="color:#ff2a6d;"><b>🤖 Creating bots and automated solutions</b></span> with Python, Langchain, Selenium, MCP.</li>
+  <li><span style="color:#39FF14;"><b>🖥️ Low-level programming</b></span> <span style="color:#fff;">(systems, networking and security) with C/C++;</span></li>
+  <li><span style="color:#f8f32b;"><b>⚡ Efficient backend</b></span> <span style="color:#fff;">with Java Spring Boot or Go, SQL/NoSQL, Docker, Kubernetes, AWS;</span></li>
+  <li><span style="color:#00b4d8;"><b>🌐 Modern web and mobile development</b></span> <span style="color:#fff;">(React & Node.js, React Native);</span></li>
+  <li><span style="color:#ff2a6d;"><b>🤖 Creating bots and automated solutions</b></span> <span style="color:#fff;">with Python, Langchain, Selenium, MCP.</span></li>
 </ul>
 I am passionate about coding and new technologies and am always keen to embark on new and exciting projects!
 </b>
@@ -115,5 +115,4 @@ I am passionate about coding and new technologies and am always keen to embark o
   <img src="https://github-readme-stats.vercel.app/api?username=sergey-chukhno&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sergey-chukhno&theme=react-dark" alt="Activity Graph" width="100%" />
 </p> 
-
 
